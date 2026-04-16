@@ -4,4 +4,4 @@
 > Repositório com as atividades da matéria de eletrônica digital II
 
 ## Aulas
-- [Revisão multiplexadores](aula 16-04-2026) - Revisão de VHDL e implementação de multiplexadores 
+- [16/04/2026](aula_16-04-26) - Revisão multiplexadores: When-else, Wit
